@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33674403802",
+    "project_id": "fir-locpush",
+    "storage_bucket": "fir-locpush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33674403802:android:f53821106ee310b9556ae3",
+        "android_client_info": {
+          "package_name": "com.example.promoterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWSDodPqX7H0XqryCTWJ8zbqBwvCdXkVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
